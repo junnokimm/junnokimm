@@ -1,4 +1,4 @@
-## Profile
+## Junho Kim
 📞 **Email** | nexta1023@gmail.com <br />
 ✉ **Phone** | 010-4204-5098
 
