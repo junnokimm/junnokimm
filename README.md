@@ -1,4 +1,4 @@
-## Hello, World! <br>This is Junho Kim😁
+## Hello, World! <br>Junho Kim
 
 📞 **Email** | nexta1023@gmail.com <br />
 ✉ **Phone** | 010-????-????
@@ -11,7 +11,7 @@
 -->
 
 
-
+<!--
 ### 🛠️ Tech Stacks & Tools
 
 <div>
@@ -20,14 +20,14 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" /> <br />
-<!-- <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white" /> -->
+<!-- <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/> 
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 <br />
 </div>
-
+-->
 <br>
   <img src="https://github-readme-stats.vercel.app/api?username=junnokimm&show_icons=true&theme=transparent&hide=stars" width="48%"/> 
 </div>
