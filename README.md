@@ -1,7 +1,7 @@
 ## Hello, World! <br>Junho Kim
 
-📞 **Email** | nexta1023@gmail.com <br />
-✉ **Phone** | 010-????-????
+✉ **Email** | nexta1023@gmail.com <br />
+📞 **Phone** | 010-????-????
 
 
 <!-- 
