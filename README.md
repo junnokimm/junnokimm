@@ -28,9 +28,9 @@
 <br />
 </div>
 
-<br>
+<!-- <br>
   <img src="https://github-readme-stats.vercel.app/api?username=junnokimm&show_icons=true&theme=transparent&hide=stars" width="48%"/> 
-</div>
+</div> -->
 
 
 
