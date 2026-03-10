@@ -1,50 +1,56 @@
-## Hello, World! <br>Junho Kim
+![header](https://capsule-render.vercel.app/api?type=venom&color=5E7F66&height=300&section=header&text=Junho%20Kim&fontSize=90&fontColor=1C1C1C)
 
-✉ **Email** | nexta1023@gmail.com <br />
-📞 **Phone** | 010-????-????
+## 👋 Hey!
+This is Junho Kim!
+I am a Data Science student at Kwangwoon University, interested in **HCI**,**UX Research**. and **Full-Stack Development**.
+I enjoy exploring how technology can better understand people, improve interaction, and create more meaningful user experiences.
 
+## 🔭Interests
+<ul>
+<li>HCI (Human-Computer Interaction)</li>
+<li>UX Research</li>
+<li>Full-Stack Development</li>
+<li>User-Centered Design</li>
+</ul>
 
-<!-- 
-<br /><br />
+## 🎓Education
+<ul>
+<li>B.S. in School of Data Science, Kwangwoon University 2021.03~</li>
+</ul>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23635DD5&title_bg=%233BA3D9&icon=java.svg&icon_color=%23E7E7E7&title=JAVA&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+## 🌱Research Experience
+<ul>
+<li>Undergraduate Research Student in IDEA Lab., Kwangwoon University 2026.02~</li>
+</ul>
 
+## 🚀Projects
+<ul>
+<li><b>Daywrite</b> – Full-Stack Project (2025.01~2025.06)</li>
+<li><b>Flight Cancellation Prediction Model for Jeju Airport</b> – Machine Learning Project based on Weather Data (2025.03~2025.06)</li>
+<li><b>Lotte World Adventure App Redesign</b> – Team Leader, UX/UI Redesign Project (2025.03~2025.06)</li>
+<li><b>QuestPet</b> – Team Leader, Web Service Design & Deployment Project (2025.09~2025.12)</li>
+<li><b>TEMI Guide Robot</b> – Software Design and Usability Evaluation for HCI & UX Evaluation (2025.09~2025.12)</li>
+</ul>
 
+## 📚Training
+<ul>
+<li>Completed JavaScript Full-Stack Developer Training Course, Korea IT Academy (2025.01~2025.07)</li>
+</ul>
 
-### 🛠️ Tech Stacks & Tools
+## 🛠Tech Stack
+<p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</p>
 
-<div>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> 
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-239120?&style=flat&logo=css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=flat&logo=figma&logoColor=white" /> <br />
-<img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat&logo=typescript&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
-<!-- <img src="https://img.shields.io/badge/Express-000000?style=flat&logo=Express&logoColor=white"/>  -->
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<br />
-</div>
-
-<!-- <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=junnokimm&show_icons=true&theme=transparent&hide=stars" width="48%"/> 
-</div> -->
-
-
-
-<!--
-**junnokimm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯Goal
+I want to grow into a researcher and developer who connects technology with human experience,  
+designing systems that are not only functional, but also thoughtful, intuitive, and user-centered.
