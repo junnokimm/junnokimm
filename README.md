@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=5E7F66&height=300&section=header&text=Junho%20Kim&fontSize=90&fontColor=1C1C1C)
+![header](https://capsule-render.vercel.app/api?type=venom&color=5E7F66&height=180&section=header&text=Junho%20Kim&fontSize=58&fontColor=FAFAFA&stroke=FFFFFF&strokeWidth=1)
 
 ## 👋 Hey!
 This is Junho Kim!
@@ -54,3 +54,7 @@ I enjoy exploring how technology can better understand people, improve interacti
 ## 🎯Goal
 I want to grow into a researcher and developer who connects technology with human experience,  
 designing systems that are not only functional, but also thoughtful, intuitive, and user-centered.
+
+## 💬 Contact
+Feel free to reach out via email!  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nexta1023@gmail.com)
