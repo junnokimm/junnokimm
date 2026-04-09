@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=5E7F66&height=180&section=header&text=Junho%20Kim&fontSize=58&fontColor=FAFAFA&stroke=FFFFFF&strokeWidth=1)
 
-## 👋 Hey!
+## 👋 Hello World!
 This is Junho Kim!
 I am a Data Science student at Kwangwoon University, interested in **HCI**,**UX Research**. and **Full-Stack Development**.
 I enjoy exploring how technology can better understand people, improve interaction, and create more meaningful user experiences.
