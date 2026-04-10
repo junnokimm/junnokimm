@@ -10,6 +10,7 @@ I enjoy exploring how technology can better understand people, improve interacti
 <li>HCI (Human-Computer Interaction)</li>
 <li>UX Research</li>
 <li>Full-Stack Development</li>
+<li>Machine Learning</li>
 <li>User-Centered Design</li>
 </ul>
 
