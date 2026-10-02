@@ -29,20 +29,10 @@ Kwangwoon University<br/>
 
 <ul>
 <li>Human-Computer Interaction</li>
-<li>UX Research</li>
+<li>Human-Vehicle Interaction / Mobility UX</li>
 <li>Human-AI Interaction</li>
 <li>Data Science</li>
 </ul>
-
-## 🏆 Awards
-
-<ul>
-<li>
-<b>Bronze Award</b><br/>
-Paper Competition, 2026 Korean Digital Contents Society Summer Conference
-</li>
-</ul>
-
 
 
 ## 💬 Contact
